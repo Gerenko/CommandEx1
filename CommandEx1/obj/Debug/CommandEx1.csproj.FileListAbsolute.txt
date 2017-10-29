@@ -1,0 +1,27 @@
+D:\Пары 2015-2016 год\Инженерия 3 курс 2015_2016гг\Команда\CommandEx1\CommandEx1\bin\Debug\CommandEx1.exe.config
+D:\Пары 2015-2016 год\Инженерия 3 курс 2015_2016гг\Команда\CommandEx1\CommandEx1\obj\Debug\CommandEx1.csprojResolveAssemblyReference.cache
+D:\Пары 2015-2016 год\Инженерия 3 курс 2015_2016гг\Команда\CommandEx1\CommandEx1\obj\Debug\CommandEx1.Properties.Resources.resources
+D:\Пары 2015-2016 год\Инженерия 3 курс 2015_2016гг\Команда\CommandEx1\CommandEx1\obj\Debug\CommandEx1.csproj.GenerateResource.Cache
+D:\Пары 2015-2016 год\Инженерия 3 курс 2015_2016гг\Команда\CommandEx1\CommandEx1\bin\Debug\CommandEx1.exe
+D:\Пары 2015-2016 год\Инженерия 3 курс 2015_2016гг\Команда\CommandEx1\CommandEx1\bin\Debug\CommandEx1.pdb
+D:\Пары 2015-2016 год\Инженерия 3 курс 2015_2016гг\Команда\CommandEx1\CommandEx1\obj\Debug\CommandEx1.Form1.resources
+D:\Пары 2015-2016 год\Инженерия 3 курс 2015_2016гг\Команда\CommandEx1\CommandEx1\obj\Debug\CommandEx1.exe
+D:\Пары 2015-2016 год\Инженерия 3 курс 2015_2016гг\Команда\CommandEx1\CommandEx1\obj\Debug\CommandEx1.pdb
+E:\CommandEx1\CommandEx1\CommandEx1\bin\Debug\CommandEx1.exe.config
+E:\CommandEx1\CommandEx1\CommandEx1\obj\Debug\CommandEx1.exe
+E:\CommandEx1\CommandEx1\CommandEx1\obj\Debug\CommandEx1.pdb
+E:\CommandEx1\CommandEx1\CommandEx1\bin\Debug\CommandEx1.exe
+E:\CommandEx1\CommandEx1\CommandEx1\bin\Debug\CommandEx1.pdb
+E:\CommandEx1\CommandEx1\CommandEx1\obj\Debug\CommandEx1.csprojResolveAssemblyReference.cache
+E:\CommandEx1\CommandEx1\CommandEx1\obj\Debug\CommandEx1.Form1.resources
+E:\CommandEx1\CommandEx1\CommandEx1\obj\Debug\CommandEx1.Properties.Resources.resources
+E:\CommandEx1\CommandEx1\CommandEx1\obj\Debug\CommandEx1.csproj.GenerateResource.Cache
+D:\Программная инженерия\KSS3Инженерия\Шаблоны\CommandEx1\CommandEx1\CommandEx1\bin\Debug\CommandEx1.exe.config
+D:\Программная инженерия\KSS3Инженерия\Шаблоны\CommandEx1\CommandEx1\CommandEx1\obj\Debug\CommandEx1.exe
+D:\Программная инженерия\KSS3Инженерия\Шаблоны\CommandEx1\CommandEx1\CommandEx1\obj\Debug\CommandEx1.pdb
+D:\Программная инженерия\KSS3Инженерия\Шаблоны\CommandEx1\CommandEx1\CommandEx1\bin\Debug\CommandEx1.exe
+D:\Программная инженерия\KSS3Инженерия\Шаблоны\CommandEx1\CommandEx1\CommandEx1\bin\Debug\CommandEx1.pdb
+D:\Программная инженерия\KSS3Инженерия\Шаблоны\CommandEx1\CommandEx1\CommandEx1\obj\Debug\CommandEx1.csprojResolveAssemblyReference.cache
+D:\Программная инженерия\KSS3Инженерия\Шаблоны\CommandEx1\CommandEx1\CommandEx1\obj\Debug\CommandEx1.Form1.resources
+D:\Программная инженерия\KSS3Инженерия\Шаблоны\CommandEx1\CommandEx1\CommandEx1\obj\Debug\CommandEx1.Properties.Resources.resources
+D:\Программная инженерия\KSS3Инженерия\Шаблоны\CommandEx1\CommandEx1\CommandEx1\obj\Debug\CommandEx1.csproj.GenerateResource.Cache
